@@ -1,5 +1,7 @@
 # The Legend of Valkyrie: arcade English translation (from Namco Museum Vol. 5)
 
+[ROMhacking.net entry](https://www.romhacking.net/translations/7973/)
+
 An English patch for the arcade game **Valkyrie no Densetsu** (Namco, 1989), the MAME / FBNeo set
 `valkyrie`.
 
