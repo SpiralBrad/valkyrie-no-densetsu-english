@@ -1,0 +1,10 @@
+# Whitelist: ROMs, disc images and work files must never be committed.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/README-IPS.md
+!/LICENSE
+!/src/
+__pycache__/
+*.pyc
